@@ -1,6 +1,4 @@
 import sys
-sys.path.insert(0, "/home/matt/Desktop/ECE477/LeapDeveloperKit_2.3.1+31549_linux/LeapSDK/lib/x64")
-
 import Leap
 import time
 import math
